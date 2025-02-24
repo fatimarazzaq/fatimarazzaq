@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatimarazzaq](https://github.com/fatimarazzaq)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/fatimarazzaq100/](https://www.linkedin.com/in/fatimarazzaq100/)
+- 📝 I regularly post on [https://www.linkedin.com/in/fatimarazzaq100/](https://www.linkedin.com/in/fatimarazzaq100/)
 
 - 💬 Ask me about **python, django, django-rest-framework, react, node.js**
 
